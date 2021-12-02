@@ -1,0 +1,20 @@
+# Theme metadata
+name = "victor"
+
+# Is theme light or dark?
+is_light = true
+
+# Primary
+primary = "#1565C0"
+
+# Menu
+menu_primary = "#f6eee9"
+menu_text = "#000"
+menu_text_active = "#000"
+menu_title = "#000"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+font = "rose"

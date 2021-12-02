@@ -22,28 +22,60 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
+  - title: Software Engineer Intern
+    company: Tesla
+    company_url: 'https://www.tesla.com'
+    company_logo: tesla
+    location: Remote
+    date_start: '2021-05-10'
+    date_end: ''
+    description: Media Server Development
+  
+  - title: Research Assistant
+    company: University of Michigan
+    company_url: 'https://www.umich.edu'
+    company_logo: umich
+    location: Ann Arbor, MI
     date_start: '2021-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Language and Information Technologies Lab
+
+  - title: Research Assistant
+    company: University of Michigan
+    company_url: 'https://www.umich.edu'
+    company_logo: umich
+    location: Ann Arbor, MI
+    date_start: '2020-05-01'
+    date_end: '2021-01-01'
+    description: Advised by Prof. Atul Prakash
+
+  - title: Research Assistant
+    company: University of Michigan
+    company_url: 'https://www.umich.edu'
+    company_logo: umich
+    location: Ann Arbor, MI
+    date_start: '2019-09-01'
+    date_end: '2021-05-01'
+    description: comp.social Lab
+
+  - title: Software Engineer Intern
+    company: Lianlian Pay
+    company_url: 'https://www.lianlianglobal.com/'
+    company_logo: lianlian
+    location: Hangzhou, China
+    date_start: '2020-07-01'
+    date_end: '2020-08-31'
+    description: Blockchain Platform Development
+
+  - title: Software Engineer Intern
+    company: Ant Group (Alibaba)
+    company_url: 'https://www.antgroup.com/en'
+    company_logo: ant
+    location: Hangzhou, China
+    date_start: '2019-07-01'
+    date_end: '2019-08-31'
+    description: Machine Learning Platform Development
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'

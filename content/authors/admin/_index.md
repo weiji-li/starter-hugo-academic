@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Weiji "Victor" Li
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Computer Science & Data Science Senior 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Michigan
+  url: https://www.umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
+- Human-Computer Interaction
+- Natural Language Processing
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.S.E in Computer Science 
+    institution: University of Michigan, Ann Arbor
+    year: 2022 (Expected)
+  - course: B.S.E in Data Science 
+    institution: University of Michigan, Ann Arbor
+    year: 
+  - course: Minor in Mathematics
+    institution: University of Michigan, Ann Arbor
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:weijili@umich.edu'
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/weiji-li
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/weiji-li/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +64,14 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! My name is Weiji "Victor" Li.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a senior undergraduate student from College of Engineering, Unversity of Michigan. I double major in Computer Science and Data Science, with a minor in Mathematics. My research interest is Human-Computer Interaction and Natural Language Processing.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am currently a research assistant at LIT group, advised by Prof. Rada Mihaclea. Besides, I was fortunate to be advised by Prof. Eric Gilbert and Prof. Eshwar Chandrasekharan on Crossmod, and by Prof. Atul Prakash on Attacking Speaker Verification System.
+
+Previously, I have done internship at Tesla, Lianlian Pay and Ant Group (Alibaba). 
+
+I am seeking for M.S. in Computer Science for Fall 2022!
+
+Download my CV {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
