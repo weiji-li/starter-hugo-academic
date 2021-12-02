@@ -1,15 +1,13 @@
 ---
-title: Crossmod
-summary: An example of using the in-built project page.
+title: COVID-19 Sentiment
+summary: Predict people's sentiment trend towards COVID-19 on Twitter.
 tags:
-- HCI
 - NLP
 - AI
-- Product
-date: "2016-04-27T00:00:00Z"
+date: "2021-04-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "/uploads/Crossmod_Poster.pdf"
+external_link: "/uploads/COVID19_Sentiment_Paper.pdf"
 
 image:
   focal_point: Smart
@@ -23,4 +21,4 @@ image:
 slides: ""
 ---
 
-A system that removed violated comments on Reddit using models that learned from previous human decisions.
+Predict people's sentiment trend towards COVID-19 on Twitter using CNN and Bert-RNN.

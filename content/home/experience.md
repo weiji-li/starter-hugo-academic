@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 100
 
 title: Experience
 subtitle:
@@ -38,7 +38,7 @@ experience:
     location: Ann Arbor, MI
     date_start: '2021-01-01'
     date_end: ''
-    description: Language and Information Technologies Lab
+    description: Language and Information Technologies Lab. Advised by Prof. Rada Mihalcea
 
   - title: Research Assistant
     company: University of Michigan
@@ -56,7 +56,7 @@ experience:
     location: Ann Arbor, MI
     date_start: '2019-09-01'
     date_end: '2021-05-01'
-    description: comp.social Lab
+    description: comp.social Lab. Advised by Prof. Eric Gilbert
 
   - title: Software Engineer Intern
     company: Lianlian Pay

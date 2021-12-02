@@ -14,7 +14,7 @@ organizations:
   url: https://www.umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include human-computer interaction (HCI) and aritificial intelligence (AI)
 
 # Interests to show in About widget
 interests:
@@ -68,10 +68,10 @@ Hi! My name is Weiji "Victor" Li.
 
 I am a senior undergraduate student from College of Engineering, Unversity of Michigan. I double major in Computer Science and Data Science, with a minor in Mathematics. My research interest is Human-Computer Interaction and Natural Language Processing.
 
-I am currently a research assistant at LIT group, advised by Prof. Rada Mihaclea. Besides, I was fortunate to be advised by Prof. Eric Gilbert and Prof. Eshwar Chandrasekharan on Crossmod, and by Prof. Atul Prakash on Attacking Speaker Verification System.
+I am currently a research assistant at [LIT](https://lit.eecs.umich.edu/) group, advised by Prof. [Rada Mihaclea](https://web.eecs.umich.edu/~mihalcea/). Besides, I was fortunate to be advised by Prof. [Eric Gilbert](http://eegilbert.org/) and Prof. [Eshwar Chandrasekharan](http://www.eshwarchandrasekharan.com/) at comp.social Lab, and by Prof. [Atul Prakash](https://web.eecs.umich.edu/~aprakash/) on ML & Security.
 
-Previously, I have done internship at Tesla, Lianlian Pay and Ant Group (Alibaba). 
+Previously, I have done internship at [Tesla](https://www.tesla.com), [Lianlian Pay](https://www.lianlianglobal.com/) and [Ant Group](https://www.antgroup.com/en) (Alibaba). 
 
 I am seeking for M.S. in Computer Science for Fall 2022!
 
-Download my CV {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
+Download my CV {{< staticref "uploads/CV_Weiji_Li.pdf" "newtab" >}}here{{< /staticref >}}.

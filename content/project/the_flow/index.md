@@ -1,15 +1,12 @@
 ---
-title: Crossmod
-summary: An example of using the in-built project page.
+title: The Flow
+summary: A smart water bottle that tracks daily water consumption.
 tags:
-- HCI
-- NLP
-- AI
 - Product
-date: "2016-04-27T00:00:00Z"
+date: "2020-02-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "/uploads/Crossmod_Poster.pdf"
+external_link: "https://katiewzhao.myportfolio.com/the-flow"
 
 image:
   focal_point: Smart
@@ -23,4 +20,4 @@ image:
 slides: ""
 ---
 
-A system that removed violated comments on Reddit using models that learned from previous human decisions.
+A smart water bottle that tracks daily water consumption and performs real-time analysis; Built with Arduino and Python; Won the 1 st place in Makeathon 2020 at University of Michigan.

@@ -1,15 +1,12 @@
 ---
-title: Crossmod
+title: Pong
 summary: An example of using the in-built project page.
 tags:
-- HCI
-- NLP
-- AI
 - Product
-date: "2016-04-27T00:00:00Z"
+date: "2017-08-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "/uploads/Crossmod_Poster.pdf"
+external_link: "https://github.com/weiji-li/PONG"
 
 image:
   focal_point: Smart
@@ -23,4 +20,4 @@ image:
 slides: ""
 ---
 
-A system that removed violated comments on Reddit using models that learned from previous human decisions.
+A redesigned and upgraded PONG video game which includes more features and visual effects.

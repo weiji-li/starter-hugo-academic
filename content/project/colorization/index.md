@@ -1,15 +1,12 @@
 ---
-title: Crossmod
-summary: An example of using the in-built project page.
+title: Image Colorization
+summary: Colorize black-white images using regression, classification and GAN.
 tags:
-- HCI
-- NLP
 - AI
-- Product
-date: "2016-04-27T00:00:00Z"
+date: "2021-04-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "/uploads/Crossmod_Poster.pdf"
+external_link: "/uploads/Colorization_Paper.pdf"
 
 image:
   focal_point: Smart
@@ -23,4 +20,4 @@ image:
 slides: ""
 ---
 
-A system that removed violated comments on Reddit using models that learned from previous human decisions.
+Colorize black-white images using regression, classification and GAN with training on small dataset.

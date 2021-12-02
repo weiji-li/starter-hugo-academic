@@ -27,10 +27,15 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Human-Computer Interaction
+    tag: HCI
+  - name: Natural Language Processing
+    tag: NLP
+  - name: Artifical Intelligence
+    tag: AI
+  - name: Product
+    tag: Product
+  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

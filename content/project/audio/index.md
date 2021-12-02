@@ -1,8 +1,8 @@
 ---
-title: Attacking a Speaker Verification Systtem
-summary: An example of using the in-built project page.
+title: Audio Attack
+summary: A novel ML attack that interfered with Speaker Verification System.
 tags:
-- Deep Learning
+- AI
 date: "2020-12-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -20,6 +20,4 @@ image:
 slides: ""
 ---
 
-In this paper, I conclude my research findings
-on audio in machine learning, especially on the
-speaker recognition system. At first, I briefly givean introduction to the audio domain in the machine learning world and the related attacks. I also present selected papers that I have read in different sub-domains of audio. Then I focus on one of the state-of-the-art speaker recognition systems. I did several experiments related to attacks in the speaker recognition system to test the robustness and vulnerability of an existing system. At last, I present my own attacking system for the speaker recognition system and give some future improvements related to audio in machine learning.
+In this paper, I conclude my research findings on audio in machine learning, especially on the speaker recognition system. At first, I briefly givean introduction to the audio domain in the machine learning world and the related attacks. I also present selected papers that I have read in different sub-domains of audio. Then I focus on one of the state-of-the-art speaker recognition systems. I did several experiments related to attacks in the speaker recognition system to test the robustness and vulnerability of an existing system. At last, I present my own attacking system for the speaker recognition system and give some future improvements related to audio in machine learning.
