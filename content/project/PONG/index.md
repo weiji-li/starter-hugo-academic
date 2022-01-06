@@ -1,6 +1,6 @@
 ---
 title: Pong
-summary: An example of using the in-built project page.
+summary: A ping-pong video game in JavaScript
 tags:
 - Product
 date: "2017-08-10T00:00:00Z"
@@ -20,4 +20,4 @@ image:
 slides: ""
 ---
 
-A redesigned and upgraded PONG video game which includes more features and visual effects.
+A redesigned and upgraded ping-pong video game which includes more features and visual effects.

@@ -1,6 +1,6 @@
 ---
 title: WhyAct
-summary: An example of using the in-built project page.
+summary: A research project in multi-modality NLP
 tags:
 - NLP
 - AI

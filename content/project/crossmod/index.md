@@ -1,6 +1,6 @@
 ---
 title: Crossmod
-summary: An example of using the in-built project page.
+summary: A comment moderation system for Reddit
 tags:
 - HCI
 - NLP
