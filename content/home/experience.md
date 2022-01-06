@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Instructional Aide
+    company: University of Michigan
+    company_url: ''https://www.umich.edu'
+    company_logo: umich
+    location: Ann Arbor, MI
+    date_start: '2022-01-05'
+    date_end: ''
+    description: TA for Computer Vision (EECS 442)
+
   - title: Software Engineer Intern
     company: Tesla
     company_url: 'https://www.tesla.com'
