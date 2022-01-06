@@ -66,11 +66,13 @@ highlight_name: true
 
 Hi! My name is Weiji "Victor" Li.
 
-I am a senior undergraduate student from College of Engineering, Unversity of Michigan. I double major in Computer Science and Data Science, with a minor in Mathematics. My research interest is Human-Computer Interaction and Natural Language Processing.
+I am a senior undergraduate student from College of Engineering, Unversity of Michigan. I double major in Computer Science and Data Science, with a minor in Mathematics. My research interests is Human-Computer Interaction, Natural Language Processing and Artificial Intelligence.
 
 I am currently a research assistant at [LIT](https://lit.eecs.umich.edu/) group, advised by Prof. [Rada Mihaclea](https://web.eecs.umich.edu/~mihalcea/). Besides, I was fortunate to be advised by Prof. [Eric Gilbert](http://eegilbert.org/) and Prof. [Eshwar Chandrasekharan](http://www.eshwarchandrasekharan.com/) at comp.social Lab, and by Prof. [Atul Prakash](https://web.eecs.umich.edu/~aprakash/) on ML & Security.
 
-Previously, I have done internship at [Tesla](https://www.tesla.com), [Lianlian Pay](https://www.lianlianglobal.com/) and [Ant Group](https://www.antgroup.com/en) (Alibaba). 
+I am also a part-time software engineer intern at [Tesla](https://www.tesla.com). Previously, I have done internship at [Lianlian Pay](https://www.lianlianglobal.com/) and [Ant Group](https://www.antgroup.com/en) (Alibaba). 
+
+I am an Instrutional Aide for Computer Vision ([EECS 442](https://web.eecs.umich.edu/~fouhey/teaching/EECS442_W22/)) during Winter 2022!
 
 I am seeking for M.S. in Computer Science for Fall 2022!
 

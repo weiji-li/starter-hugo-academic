@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Instructional Aide
     company: University of Michigan
-    company_url: ''https://www.umich.edu'
+    company_url: 'https://www.umich.edu'
     company_logo: umich
     location: Ann Arbor, MI
     date_start: '2022-01-05'
