@@ -5,7 +5,7 @@
 
 title: Weiji Li # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: 'Built by Weiji Li (Last Updated Jan 2022). All rights reserved. ' # Footer text, e.g. '© {year} Me'
+copyright: 'Built by Weiji Li (Last Update on Aug 2022). All rights reserved. ' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

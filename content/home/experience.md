@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 20
 
 title: Experience
 subtitle:
@@ -22,22 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Machine Learning Engineer Intern
+    company: Tiktok
+    company_url: 'https://www.tiktok.com'
+    company_logo: tiktok
+    location: Seattle, WA (Remote)
+    date_start: '2022-05-16'
+    date_end: '2022-08-05'
+    description: Machine Learning Infrastructure
+  
   - title: Instructional Aide
     company: University of Michigan
     company_url: 'https://www.umich.edu'
     company_logo: umich
     location: Ann Arbor, MI
     date_start: '2022-01-05'
-    date_end: ''
+    date_end: '2022-05-01'
     description: TA for Computer Vision (EECS 442)
 
   - title: Software Engineer Intern
     company: Tesla
     company_url: 'https://www.tesla.com'
     company_logo: tesla
-    location: Remote
+    location: Palo Alto, CA (Remote)
     date_start: '2021-05-10'
-    date_end: ''
+    date_end: '2022-04-08'
     description: Media Server Development
   
   - title: Research Assistant
@@ -46,7 +55,7 @@ experience:
     company_logo: umich
     location: Ann Arbor, MI
     date_start: '2021-01-01'
-    date_end: ''
+    date_end: '2022-05-01'
     description: Language and Information Technologies Lab. Advised by Prof. Rada Mihalcea
 
   - title: Research Assistant
@@ -56,7 +65,7 @@ experience:
     location: Ann Arbor, MI
     date_start: '2020-05-01'
     date_end: '2021-01-01'
-    description: Advised by Prof. Atul Prakash
+    description: Machine Learning + Security. Advised by Prof. Atul Prakash
 
   - title: Research Assistant
     company: University of Michigan
@@ -67,7 +76,7 @@ experience:
     date_end: '2021-05-01'
     description: comp.social Lab. Advised by Prof. Eric Gilbert
 
-  - title: Software Engineer Intern
+  - title: Software Engineer Intern (Blockchain)
     company: Lianlian Pay
     company_url: 'https://www.lianlianglobal.com/'
     company_logo: lianlian
@@ -76,7 +85,7 @@ experience:
     date_end: '2020-08-31'
     description: Blockchain Platform Development
 
-  - title: Software Engineer Intern
+  - title: Algorithm Engineer Intern
     company: Ant Group (Alibaba)
     company_url: 'https://www.antgroup.com/en'
     company_logo: ant
