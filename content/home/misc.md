@@ -19,10 +19,10 @@ subtitle = ""
  css_class = ""
 +++
 
-- I was born and grew up in Hangzhou, a beautiful and technological city in southeast China. 🏞
-- I enjoy the songs from Mayday and JJ Lin. 🎵
-- I play soccer. I have been a fan of FC Barcelone and Spain since 2010. ⚽️
-- I am a fan of Apple. 👨🏻‍💻
+- I was born and grew up in [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou), a beautiful and technological city in southeast China. 🏞
+- I love photography. You can find some pictures that I have taken [here](https://www.instagram.com/pitc.vic/). 📷
+- I listen to the songs from [Mayday](https://music.apple.com/us/artist/mayday/369211611) and [JJ Lin](https://music.apple.com/us/artist/jj-lin/216635866) since I was young. Now I also listen to some Chinese Hiphops from rappers like [KeyNG](https://music.apple.com/us/artist/keyng/1440715265), [TangoZ](https://music.apple.com/us/artist/tangoz%E9%92%9F%E7%A5%BA/1550895240) and [Yitai Wang](https://music.apple.com/us/artist/yitai-wang/1436812638). 🎵
+- I play soccer. I have been a fan of FC Barcelona and Spain since 2010. ⚽️
 - This site has been visited by: 🌎
 <div>
    <div style="max-width: 200px; margin: 0px auto">

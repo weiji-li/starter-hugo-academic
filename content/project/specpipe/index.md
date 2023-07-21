@@ -1,12 +1,13 @@
+
 ---
-title: Pong
-summary: A ping-pong video game in JavaScript
+title: Specpipe
+summary: A data pipeline for spectrum
 tags:
 - Product
-date: "2017-08-10T00:00:00Z"
+date: "2022-09-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/weiji-li/PONG"
+external_link: "https://ml4wireless.github.io/adsb-nats/"
 
 image:
   focal_point: Smart
@@ -20,5 +21,4 @@ image:
 slides: ""
 ---
 
-A redesigned and upgraded ping-pong video game which includes more features and visual effects.
-
+A scalable cloud-based AI/ML-facilitating data pipeline for spectrum

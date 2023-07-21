@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer
+    company: Tesla
+    company_url: 'https://www.tesla.com'
+    company_logo: tesla
+    location: Palo Alto, CA
+    date_start: '2023-07-10'
+    description: Maps, Navigation & Autopilot
+
   - title: Machine Learning Engineer Intern
     company: Tiktok
     company_url: 'https://www.tiktok.com'

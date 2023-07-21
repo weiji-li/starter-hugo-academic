@@ -6,7 +6,7 @@ title: Weiji "Victor" Li
 superuser: true
 
 # Role/position/tagline
-role: Master of Engineering student in EECS
+role: Software Engineer at Tesla
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,8 +28,8 @@ education:
   courses:
   - course: M.Eng in EECS (Data Science & Systems)
     institution: University of California, Berkeley
-    year: 2023 (Expected)
-  - course: B.S.E in Computer Science, B.S.E in Data Science, Minor in Math
+    year: 2023
+  - course: B.S.E in Computer Science, B.S.E in Data Science
     institution: University of Michigan, Ann Arbor
     year: 2022
 
@@ -62,16 +62,12 @@ email: ""
 highlight_name: true
 ---
 
-Hi! My name is Weiji "Victor" Li.
+Hi, there! I am now a Software Engineer at Tesla, working on Maps, Navigation & Autopilot.
 
-I am a master of engineering student in EECS from UC Berkeley. My concentation is Data Science & Systems.
+I recently graduated with my master of engineering degree in EECS from UC Berkeley. My concentation is Data Science & Systems. I worked with [Prof. Anant Sahai](https://www2.eecs.berkeley.edu/Faculty/Homepages/sahai.html) for a year on a data pipeline for spectrum ([link](https://ml4wireless.github.io/adsb-nats/)).
 
 Before that, I was a undergraduate student from College of Engineering, Unversity of Michigan, where I double major in Computer Science and Data Science, with a minor in Mathematics. My research interests is Human-Computer Interaction, Natural Language Processing and Artificial Intelligence.
 
-During my undergraduate time, I was actively involved in research. I was a research assistant at [LIT](https://lit.eecs.umich.edu/) group, advised by Prof. [Rada Mihaclea](https://web.eecs.umich.edu/~mihalcea/). Besides, I was fortunate to be advised by Prof. [Eric Gilbert](http://eegilbert.org/) and Prof. [Eshwar Chandrasekharan](http://www.eshwarchandrasekharan.com/) at comp.social Lab, and by Prof. [Atul Prakash](https://web.eecs.umich.edu/~aprakash/) on ML & Security.
+During my undergraduate time, I was actively involved in research. I was a research assistant at [LIT](https://lit.eecs.umich.edu/) group, advised by [Prof. Rada Mihaclea](https://web.eecs.umich.edu/~mihalcea/). Besides, I was fortunate to be advised by [Prof. Eric Gilbert](http://eegilbert.org/) and [Prof. Eshwar Chandrasekharan](http://www.eshwarchandrasekharan.com/) at comp.social Lab, and by [Prof. Atul Prakash](https://web.eecs.umich.edu/~aprakash/) on ML & Security.
 
-My most recent industry experience was at [TikTok](https://www.tiktok.com/en/). Previously, I have worked at [Tesla](https://www.tesla.com), [Lianlian Pay](https://www.lianlianglobal.com/) and [Ant Group](https://www.antgroup.com/en) (Alibaba). 
-
-I am seeking for jobs starting summer 2023!
-
-Download my Resume {{< staticref "uploads/resume_weiji_li.pdf" "newtab" >}}here{{< /staticref >}}.
+Please free to connect me for any startup or project ideas!
